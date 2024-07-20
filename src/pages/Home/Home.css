@@ -1,0 +1,42 @@
+.banner-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(254 245 236);
+}
+
+
+.banner-container{
+    font-weight: 600;
+    font-size: x-large;
+    padding: 12px;
+}
+
+.banner-left-line-1{
+    font-weight: normal;
+    font-size: medium;
+}
+
+.banner-container div p span{
+    color: #E37413;
+}
+
+.banner-left-line-1{
+    font-weight: normal;
+    margin-bottom: 18px;
+}
+
+.banner-container img{
+    height: 40vw;
+}
+
+.playstore-appstore-container{
+    display: flex;
+    gap: 6px;
+}
+
+.playstore-appstore-container img{
+    max-width: 130px;
+    height: 40px;
+    margin-top: 18px;
+}
